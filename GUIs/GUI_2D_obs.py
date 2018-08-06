@@ -18,7 +18,7 @@ import cartopy.crs as ccrs
 
 import numpy as np
 
-from plot_2D_obs_initial import plot_2D_obs
+from plot_2D_obs import plot_2D_obs
 np.set_printoptions(threshold=np.nan) #without this setting, self.levels will be incomplete
 
 
